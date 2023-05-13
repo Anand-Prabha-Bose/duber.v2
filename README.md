@@ -22,7 +22,7 @@ start sanity in terminal 2 : ```cd studio``` , ``` sanity start``` for viewing D
 map API used : https://www.mapbox.com 
 add a metamask wallet extension in the browser.
 
-add ether.js : ```yarn add ethers```.
+add ether.js : ```yarn add ethers```. \
 install react-toastify :```npm install react-toastify``` for notification alerts.
 
 
