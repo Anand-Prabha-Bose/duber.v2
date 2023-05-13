@@ -3,3 +3,11 @@ Decentralized uber. We developed this project with nextJS, tailwind css, ether.j
 
 visit : https://duberv2-anand-prabha-bose.vercel.app/ to checkout the working.
 sanity cms : https://duber-sanity.sanity.studio/desk
+
+Go to master branch to get code.
+install vercel : ```vercel```
+run : ```vercel dev```
+
+
+
+
