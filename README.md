@@ -8,6 +8,8 @@ Go to master branch to get code.
 install vercel : ```vercel```
 run : ```vercel dev```
 
+add environment variables for your project in vercel : ```NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN``` , ``` MAPBOX_PLACES_API_URL ``` , ``` MAPBOX_DIRECTIONS_API_URL``` , ``` NEXT_PUBLIC_UBER_ADDRESS ``` , ``` SANITY_TOKEN```.
+
 
 
 
