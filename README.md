@@ -12,6 +12,12 @@ add environment variables for your project in vercel : ```NEXT_PUBLIC_MAPBOX_ACC
 
 Add tailwind css, refer NextJS fraamework Doc : https://tailwindcss.com/docs/guides/nextjs
 
+install sanity :
+```cd studio```
+```npm install -g @sanity/cli``` 
+```sanity init --coupon cleverprogrammer```
+
+
 
 
 
