@@ -17,7 +17,18 @@ install sanity :
 ```npm install -g @sanity/cli``` ,
 ```sanity init --coupon cleverprogrammer``` ,
 
-start sanity in terminal 2 : ```cd studio``` , ``` sanity start``` 
+start sanity in terminal 2 : ```cd studio``` , ``` sanity start``` for viewing DB.
+
+map API used : https://www.mapbox.com 
+add a metamask wallet extension in the browser.
+
+
+
+
+
+
+
+
 
 
 
