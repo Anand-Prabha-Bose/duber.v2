@@ -26,6 +26,7 @@ add ether.js : ```yarn add ethers```. \
 install react-toastify :```npm install react-toastify``` for notification alerts.
 
 
+![image](https://github.com/Anand-Prabha-Bose/duber.v2/assets/92418883/e88b5251-081f-4561-991f-8a183f87bd9a)
 
 
 
